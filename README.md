@@ -110,3 +110,21 @@ python vipr_model_textures.py info <file.import.vipr>
 
 1. Extract the `data.zip` with `vzip_extract_named.py`.
 2. Run `Model_Textures_Extract.bat` (or `vipr_model_textures.py`) on the extracted folder to get the models and textures.
+
+---
+
+## Notice
+
+This project was developed with the assistance of AI. The code and documentation may contain mistakes, so please review the results before relying on them.
+
+## Contributing
+
+Anyone is free to contribute fixes and improvements. Issues and pull requests are welcome.
+
+## Disclaimer
+
+This is an unofficial, community reverse-engineering project. It is not affiliated with or endorsed by the owners of the games or engine it works with. It contains no game assets, and you must supply your own legally obtained files. The software is provided "as is", without warranty of any kind.
+
+## License
+
+Released under the [GNU General Public License v3.0](LICENSE). You are free to use, modify and share this project, but any distributed derivative work must also be released under GPL-3.0 with its source code available.
