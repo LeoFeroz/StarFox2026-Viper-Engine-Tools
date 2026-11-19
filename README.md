@@ -1,6 +1,6 @@
 # VZIP / VIPR Tools
 
-Python tools to extract the files from a `data.zip` (Eclipse engine, Star Fox) and convert `.vipr` assets back to common formats (FBX, PNG, TGA).
+Python tools to extract the files from a `data.zip` (Viper engine, Star Fox) and convert `.vipr` assets back to common formats (FBX, PNG, TGA).
 
 ## Contents
 
